@@ -1,4 +1,4 @@
-Managing Resources with Agile Training and Development: Understanding the Importance of Resource Management in Agile Training and Development
+Understanding the Importance of Resource Management in Agile Training and Development
 =============================================================================================================================================
 
 Agile training and development programs require effective management of time, budget, and staff resources to ensure success. In this chapter, we will explore the importance of resource management in agile training and development.

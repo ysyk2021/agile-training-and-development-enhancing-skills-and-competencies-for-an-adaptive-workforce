@@ -1,4 +1,4 @@
-Managing Resources with Agile Training and Development: Best Practices for Balancing Workload and Personal Life through Agile Training and Development
+Best Practices for Balancing Workload and Personal Life through Agile Training and Development
 ======================================================================================================================================================
 
 Effective resource management in agile training and development involves not only managing time, budget, and staff resources but also ensuring that employees maintain a healthy work-life balance. In this chapter, we will explore best practices for balancing workload and personal life through agile training and development.

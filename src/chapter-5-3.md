@@ -1,4 +1,4 @@
-Measuring the Success of Your Agile Training and Development Efforts: Using Feedback to Continuously Improve Agile Training and Development Efforts
+Using Feedback to Continuously Improve Agile Training and Development Efforts
 ===================================================================================================================================================
 
 Measuring the success of agile training and development efforts is essential to ensuring that organizations are achieving their learning objectives. In this chapter, we will explore strategies for measuring the success of agile training and development efforts and using feedback to continuously improve these efforts.

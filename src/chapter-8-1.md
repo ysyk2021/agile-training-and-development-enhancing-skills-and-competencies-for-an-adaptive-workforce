@@ -1,4 +1,4 @@
-Conclusion: Recap of Key Takeaways
+Recap of Key Takeaways
 ==================================
 
 In this book, we explored the concept of agile training and development and how it can enhance skills and competencies for an adaptive workforce. Throughout the book, we discussed various topics related to agile training and development, including:

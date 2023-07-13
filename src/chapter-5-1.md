@@ -1,4 +1,4 @@
-Measuring the Success of Your Agile Training and Development Efforts: Choosing Metrics to Evaluate Agile Training and Development Effectiveness
+Choosing Metrics to Evaluate Agile Training and Development Effectiveness
 ===============================================================================================================================================
 
 Choosing the right metrics is essential for measuring the success of agile training and development efforts. By selecting metrics that align with organizational goals and objectives, organizations can track the impact of training and development initiatives over time. In this chapter, we will explore techniques for choosing metrics to evaluate agile training and development effectiveness.

@@ -1,4 +1,4 @@
-Overcoming Agile Training and Development Challenges: Strategies for Overcoming Resistance to Change and Adopting Agile Practices
+Strategies for Overcoming Resistance to Change and Adopting Agile Practices
 =================================================================================================================================
 
 Agile training and development programs can be highly effective in enhancing skills and competencies for an adaptive workforce. However, implementing agile practices can also present challenges, particularly when it comes to overcoming resistance to change. In this chapter, we will explore strategies for overcoming resistance to change and adopting agile practices.

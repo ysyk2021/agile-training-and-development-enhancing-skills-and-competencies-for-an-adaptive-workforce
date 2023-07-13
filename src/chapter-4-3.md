@@ -1,4 +1,4 @@
-Applying Agile Training and Development to Business: Best Practices for Innovating and Expanding with Agile Training and Development
+Best Practices for Innovating and Expanding with Agile Training and Development
 ====================================================================================================================================
 
 Agile training and development can be a powerful tool for businesses looking to innovate and expand in a rapidly changing market. By embracing agile methodologies and continuous learning, organizations can create a more adaptive and responsive workforce that is better equipped to meet the evolving needs of customers and stakeholders. In this chapter, we will explore best practices for applying agile training and development to business.

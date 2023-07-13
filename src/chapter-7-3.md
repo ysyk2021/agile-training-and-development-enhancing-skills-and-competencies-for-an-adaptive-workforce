@@ -1,4 +1,4 @@
-Overcoming Agile Training and Development Challenges: Best Practices for Dealing with Setbacks and Staying on Track with Agile Training and Development
+Best Practices for Dealing with Setbacks and Staying on Track with Agile Training and Development
 =======================================================================================================================================================
 
 Agile training and development programs can face setbacks and challenges that may derail progress. In this chapter, we will explore best practices for dealing with setbacks and staying on track with agile training and development.

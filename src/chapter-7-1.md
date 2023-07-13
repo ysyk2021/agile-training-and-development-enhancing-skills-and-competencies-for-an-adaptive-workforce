@@ -1,4 +1,4 @@
-Overcoming Agile Training and Development Challenges: Understanding Common Agile Training and Development Challenges
+Understanding Common Agile Training and Development Challenges
 ====================================================================================================================
 
 Agile training and development programs can face several challenges that may impact their effectiveness. In this chapter, we will explore common agile training and development challenges.
