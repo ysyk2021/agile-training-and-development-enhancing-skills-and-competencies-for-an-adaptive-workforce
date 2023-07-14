@@ -6,5 +6,4 @@ This book provides practical tips and strategies for enhancing skills and compet
 
 Whether you are a business leader, HR professional, or individual looking to enhance your career prospects, Agile Training and Development is a must-read. Discover how to build a culture of continuous learning and development, leading to greater success and innovation in the ever-changing world of work.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
