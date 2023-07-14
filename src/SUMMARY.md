@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [The Importance of Agile Training and Development in a Rapidly Changing Business Environment](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Understanding Agile Training and Development](chapter-2.md)
   - [Defining Agile Training and Development and its Importance in Developing an Adaptive Workforce](chapter-2-1.md)
   - [Key Elements of Successful Agile Training and Development](chapter-2-2.md)
