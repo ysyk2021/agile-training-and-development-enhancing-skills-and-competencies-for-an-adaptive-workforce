@@ -1,5 +1,3 @@
-Gathering Data on Training and Development Activities
-===========================================================================================================================
 
 Gathering data on training and development activities is critical to measuring the success of agile training and development programs. In this chapter, we will explore strategies for gathering data on training and development activities.
 

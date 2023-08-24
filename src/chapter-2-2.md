@@ -1,5 +1,3 @@
-Key Elements of Successful Agile Training and Development
-=======================================================================================================
 
 Agile training and development is an approach to learning that emphasizes continuous improvement, experimentation, and adaptation. In order for agile training and development programs to be successful, they must incorporate several key elements. In this chapter, we will explore these key elements and how they contribute to effective agile training and development.
 

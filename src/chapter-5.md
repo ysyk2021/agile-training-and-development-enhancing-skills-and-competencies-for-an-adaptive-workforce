@@ -1,5 +1,3 @@
-Measuring the Success of Your Agile Training and Development Efforts
-====================================================================
 
 Measuring the success of agile training and development efforts is critical to ensuring that these initiatives are meeting organizational goals and driving business results. In this chapter, we will explore techniques for measuring the effectiveness of agile training and development efforts.
 

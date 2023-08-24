@@ -1,5 +1,3 @@
-Techniques for Managing Time, Budget, and Staff Resources with Agile Training and Development
-=====================================================================================================================================================
 
 Effective resource management is critical to the success of agile training and development programs. In this chapter, we will explore techniques for managing time, budget, and staff resources with agile training and development.
 

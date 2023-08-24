@@ -1,5 +1,3 @@
-Strategies for Applying Agile Training and Development to Business Operations and Strategy
-===============================================================================================================================================
 
 Agile training and development can be a powerful tool for businesses looking to improve their operations and strategy. By adopting agile methodologies and prioritizing continuous learning, organizations can create a more adaptive and responsive workforce that is better equipped to meet the evolving needs of customers and stakeholders. In this chapter, we will explore strategies for applying agile training and development to business operations and strategy.
 

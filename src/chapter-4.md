@@ -1,5 +1,3 @@
-Applying Agile Training and Development to Business
-===================================================
 
 Agile training and development can revolutionize the way organizations approach their business operations and strategy. By adopting agile methodologies and prioritizing continuous learning, organizations can create a more adaptive and responsive workforce that is better equipped to meet the evolving needs of customers and stakeholders. In this chapter, we will explore strategies, techniques, and best practices for applying agile training and development to business.
 

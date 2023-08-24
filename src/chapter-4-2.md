@@ -1,5 +1,3 @@
-Techniques for Aligning Training and Development with Business Objectives and Goals
-========================================================================================================================================
 
 Aligning training and development with business objectives and goals is essential for ensuring that organizations are investing resources in the most impactful ways possible. In this chapter, we will explore techniques for aligning training and development with business objectives and goals.
 
