@@ -1,5 +1,4 @@
-Chapter: Best Practices for Dealing with Setbacks and Staying on Track with Agile Training and Development
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

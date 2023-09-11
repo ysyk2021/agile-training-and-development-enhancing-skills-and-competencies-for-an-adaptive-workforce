@@ -1,5 +1,4 @@
-Chapter: Techniques for Managing Time, Budget, and Staff Resources with Agile Training and Development
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
